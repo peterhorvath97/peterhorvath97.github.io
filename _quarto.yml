@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Péter Horváth"
+  favicon: "images/google-scholar.svg"
+  google-analytics: "G-BGV4MVV5TE"
+  sidebar:
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/p%C3%A9ter-horv%C3%A1th-193090131/
+      - icon: github
+        href: https://github.com/peterhorvath97
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - section: "About me"
+        contents:
+          - cv.qmd
+          - teaching.qmd
+      - section: "Research"
+        contents:
+          - papers.qmd
+      - section: "Codes"
+        contents: 
+          - codes.qmd
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
