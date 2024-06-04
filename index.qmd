@@ -14,9 +14,7 @@ title: "Péter Horváth"
 
 :::
 ::: {.column width="70%"}
-I am a PhD Student at the [Institute of Economics, Corvinus University of Budapest](https://www.uni-corvinus.hu/elerhetosegek/horvath-peter/).  
-
-My research interests are in empirical macroeconomics and monetary policy. My ongoing research covers topics on 
+I am a PhD Student at the [Institute of Economics, Corvinus University of Budapest](https://www.uni-corvinus.hu/elerhetosegek/horvath-peter/).  My research interests are in empirical macroeconomics and monetary policy. My ongoing research covers topics on 
 
 - the impact of monetary shocks on the housing market, 
 - NLP applications in monetary policy analysis, 
@@ -24,19 +22,19 @@ My research interests are in empirical macroeconomics and monetary policy. My on
 
 See more on my research [here](./papers.html).
 
+I am currently on the 2024/25 job market.
+
 ::: 
 :::
 
 
-## [Teaching](./teaching.html)
+## Teaching
 
   - Macroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)
   - Microeconomics (Business Economics BA and Applied Economics BA)
   - International Economics (Business Economics BA and Economics and Financial Mathematics MSc)
 
-More information on the courses is available [here](./teaching.html).
-
-## [Codes](./codes.html)
+More information on the courses is available at the [website](https://www.uni-corvinus.hu/main-page/programs/subjects-amp-courses/?lang=en) of Corvinus University of Budapest.
 
 
 ## Contact

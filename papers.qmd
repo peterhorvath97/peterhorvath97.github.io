@@ -3,6 +3,33 @@ title: "Papers"
 ---
 *Last update: 2024/06/04*
 
+## Ongoing research projects
 
+- *Monetary Transmission in a fragmented uncertain world* - joint work with Tohid Atashbar (currently under review for the IMF Working Paper Series)
+  - **Abstract:** In this paper, we investigate the nonlinear relationship between economic uncertainty and the monetary transmission mechanism. We use a Threshold Vector Autoregression model and impose sign-restrictions on quarterly interest rates, GDP growth, and CPI inflation across a broad range of countries. Our findings suggest that during periods of elevated uncertainty, monetary shocks lead to more profound economic contractions, followed by sluggish output adjustments. The effectiveness in curbing inflation exhibits mixed results contingent on the underlying uncertainty narrative. Nonetheless, the overarching trend in our results tends to support the notion that heightened uncertainty acts as a channel for propagating shocks, thereby amplifying their influence. Consequently, our implications for policymakers emphasize that while heightened uncertainty does not inherently hinder the transmission mechanism, it does disrupt monetary policy by escalating the costs associated with reducing inflation.
 
+\vspace{4em}
 
+- *Inflation Shock and Monetary Policy* in *Central and Eastern European Economies after the Ukrainian War* - joint work with Szilárd Benk and Norber Szepesi (currently under review for Springer)
+  - **Abstract:** The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.
+
+\vspace{4em}
+
+- *Dynamics of geoeconomic fragmentation* (ongoing)
+  - **Abstract:** This paper investigates the macroeconomic impacts of geoeconomic fragmentation (GEF) shocks identified using the Global Trade Alerts (GTA) database. Impulse responses are estimated across a panel of economies using Local Projections to derive the dynamic impact of GEF shocks. Results indicate a short run demand contraction following these episodes, followed by a medium term upswing in domestic demand, and prolonged inflationary pressure in the long-run. These findings suggest that effective policy should focus on maintaining stable multilateral trade relations, providing short-term support to stabilize key economic sectors, and implementing measures to manage long-term inflationary pressures. Close monitoring of both domestic and foreign market dynamics is essential to tailor policies effectively and mitigate the adverse impacts of GEF shocks.
+
+\vspace{4em}
+  
+- *Measuring central bank unertianty: A computational linguistics approach* (ongoing)
+  - **Short summary:** Economic uncertainty has been shown to be a significant driver of business cycle fluctuations since the seminal work of Baker et al. (2016). In this paper, I use the FOMC Transcripts to construct a new set of uncertainty indices for the US, that measure economic uncertainty from the policymakers' perspective. Furthermore, I use NLP techniques to uncover the thematic background behind the central bank's percieved uncertainty.
+
+\vspace{4em}
+
+- *Could interest rate hikes burst the housing bubble?* (ongoing)
+  - **Abstract:** This paper discusses the US housing market from a monetary policy point of view. In recent years we saw a vast increase in real housing prices, which could be a consequence of the low interest rate environment. Recent economic developments causing heightened inflationary pressure however lead most central banks to start an aggressive interest rate rise policy, ending the low interest rate era. This leads us to the proposed question - could the interest rate hikes burst the housing bubble? To investigate this, I estimate a two-regime TVAR model dependent on housing prices using US data. Results show that although the size of the impact of an interest rate shock is similar in both regimes, its persistence much stronger when housing prices are high.
+
+\vspace{8em}
+
+Further details and replication files can be found [here](https://github.com/peterhorvath97?tab=repositories).
+
+[back](./)

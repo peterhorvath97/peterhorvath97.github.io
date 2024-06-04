@@ -6,7 +6,7 @@ format:
 ---
 
 # Curriculum Vitae
-*Last update: 2024/01/09*
+*Last update: 2024/06/04*
 
 [Download CV](https://peterhorvath97.github.io/assets/img/CV.pdf)
 
@@ -44,8 +44,8 @@ Currently, I am working on natural language processing applications in monetary 
 
 ## Education
  - 2021-    : PhD in Economics at Corvinus University of Budapest
-  - Advisor: István Kónya
-  - Thesis: Essays on Monetary Transmission
+    - Advisor: István Kónya
+    - Thesis: Essays on Monetary Transmission
  - 2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University
  - 2019-2020: MSc in Economic Analysis at Corvinus University of Budapest
  - 2016-2019: BA in Applied Economics at Corvinus University of Budapest
@@ -53,7 +53,7 @@ Currently, I am working on natural language processing applications in monetary 
 
 ## Work experience
  - **Hungarian Ministry of Finance** (2020 - 2022)
-	- I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using microsimulation techniques on tax return data. 
+	- I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
 
 
 ## Skills

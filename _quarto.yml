@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Péter Horváth"
-  favicon: "images/google-scholar.svg"
-  google-analytics: "G-BGV4MVV5TE"
+  #favicon: "images/google-scholar.svg"
+  #google-analytics: "G-BGV4MVV5TE"
   sidebar:
     tools:
       - icon: linkedin
@@ -19,14 +19,10 @@ website:
       - section: "About me"
         contents:
           - cv.qmd
-          - teaching.qmd
       - section: "Research"
         contents:
           - papers.qmd
-      - section: "Codes"
-        contents: 
-          - codes.qmd
-    
+
 
 format:
   html:
