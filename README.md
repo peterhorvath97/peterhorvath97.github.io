@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # h1 heading
 ## h2 headin
 ### h3 heading
