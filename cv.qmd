@@ -8,7 +8,7 @@ format:
 # Curriculum Vitae
 *Last update: 2024/06/04*
 
-[Download CV](https://peterhorvath97.github.io/assets/img/CV.pdf)
+[Download CV](https://peterhorvath97.github.io/assets/horvathpeter_cv.pdf)
 
 ## Research Interest
 
