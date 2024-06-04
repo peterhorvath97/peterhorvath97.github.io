@@ -20,7 +20,7 @@ title: "Papers"
 
 \vspace{4em}
   
-- *Measuring central bank unertianty: A computational linguistics approach* (ongoing)
+- *Measuring central bank uncertainty: A computational linguistics approach* (ongoing)
   - **Short summary:** Economic uncertainty has been shown to be a significant driver of business cycle fluctuations since the seminal work of Baker et al. (2016). In this paper, I use the FOMC Transcripts to construct a new set of uncertainty indices for the US, that measure economic uncertainty from the policymakers' perspective. Furthermore, I use NLP techniques to uncover the thematic background behind the central bank's percieved uncertainty.
 
 \vspace{4em}
