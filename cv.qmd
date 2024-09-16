@@ -9,7 +9,7 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2024/06/04*
+*Last update: 2024/09/16*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
@@ -57,7 +57,11 @@ Currently, I am working on natural language processing applications in monetary 
 ## Work experience
  - **Hungarian Ministry of Finance** (2020 - 2022)
 	- I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
-
+	
+## Publications
+- [Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4) - *joint work with Szilárd Benk and Norbert Szepesi*
+	- In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.
+- Further information on my ongoing research projects can be found [here](https://peterhorvath97.github.io/papers.html).
 
 ## Skills
  - **Language**

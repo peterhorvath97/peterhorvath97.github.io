@@ -5,7 +5,7 @@ project:
 website:
   title: "Péter Horváth"
   #favicon: "images/google-scholar.svg"
-  #google-analytics: "G-BGV4MVV5TE"
+  #google-analytics: ""
   sidebar:
     tools:
       - icon: linkedin

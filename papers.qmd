@@ -1,17 +1,19 @@
 ---
 title: "Papers"
 ---
-*Last update: 2024/06/04*
+*Last update: 2024/09/16*
+
+## Published papers
+
+- *[Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4)* In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine. Contributions to Economics. Springer, Cham. https://doi.org/10.1007/978-3-031-61561-0_4 - joint work with Szilárd Benk and Norbert Szepesi
+  - **Abstract:** The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.
 
 ## Ongoing research projects
 
 - *Monetary Transmission in a fragmented uncertain world* - joint work with Tohid Atashbar (currently under review for the IMF Working Paper Series)
   - **Abstract:** In this paper, we investigate the nonlinear relationship between economic uncertainty and the monetary transmission mechanism. We use a Threshold Vector Autoregression model and impose sign-restrictions on quarterly interest rates, GDP growth, and CPI inflation across a broad range of countries. Our findings suggest that during periods of elevated uncertainty, monetary shocks lead to more profound economic contractions, followed by sluggish output adjustments. The effectiveness in curbing inflation exhibits mixed results contingent on the underlying uncertainty narrative. Nonetheless, the overarching trend in our results tends to support the notion that heightened uncertainty acts as a channel for propagating shocks, thereby amplifying their influence. Consequently, our implications for policymakers emphasize that while heightened uncertainty does not inherently hinder the transmission mechanism, it does disrupt monetary policy by escalating the costs associated with reducing inflation.
 
-\vspace{4em}
 
-- *Inflation Shock and Monetary Policy* in *Central and Eastern European Economies after the Ukrainian War* - joint work with Szilárd Benk and Norber Szepesi (currently under review for Springer)
-  - **Abstract:** The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.
 
 \vspace{4em}
 
@@ -20,8 +22,8 @@ title: "Papers"
 
 \vspace{4em}
   
-- *Measuring central bank uncertainty: A computational linguistics approach* (ongoing)
-  - **Short summary:** Economic uncertainty has been shown to be a significant driver of business cycle fluctuations since the seminal work of Baker et al. (2016). In this paper, I use the FOMC Transcripts to construct a new set of uncertainty indices for the US, that measure economic uncertainty from the policymakers' perspective. Furthermore, I use NLP techniques to uncover the thematic background behind the central bank's percieved uncertainty.
+- *FOMC uncertainty and monetary shock identification* (ongoing)
+  - **Short summary:** This paper introduces a novel set of indices using Natural Language Processing (NLP) techniques applied to Transcripts and Staff Reports of the Federal Open Market Committee (FOMC) meetings. These indices are designed to quantify uncertainty in monetary policy decisions and are applied in two key ways: first, to augment the standard Structural Vector Autoregression (SVAR) framework, and second, within an Instrumental Variables SVAR (IV-SVAR) framework to identify interest rate shocks. Evidence from the SVAR analysis indicates that these policy uncertainty measures are significant drivers of economic activity while exerting minimal impact on financial markets or prices. However, IV-SVAR results reveal that most of these indices are weak instruments, failing to fully resolve the price puzzle.
 
 \vspace{4em}
 
