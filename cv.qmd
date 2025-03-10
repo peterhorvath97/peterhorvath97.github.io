@@ -9,7 +9,7 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2024/09/16*
+*Last update: 2054/03/10*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
@@ -18,10 +18,15 @@ project:
 Applied econometrics, empirical macroeconomics, machine learning methods. 
 Currently, I am working on natural language processing applications in monetary policy analysis.
 
+## Current position
+
+- *Research Intern* -- European Investment Bank (2025 March - Aug)
+	- My role is to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assist the department’s economists with various ad hoc tasks.
+
 ## Previous Positions and Research Experiences
 
 - *Summer Research Intern* -- International Monetary Fund (2023)
-	- My projectwas titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. In this paper we investigated how economic uncertainty impacts the monetary transmission mechanism using Threshold VAR models estimated with sign restrictions across various countries. We found that in times of high uncertainty, monetary shocks are followed by a larger and longer-lasting contraction of output, than in normal times. However, our results show no significant difference in the reaction of inflation rates, indicating that uncertainty increases the cost of reducing inflation. Our results also suggest that more extreme levels of uncertainty amplify this effect.
+	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. In this paper we investigated how economic uncertainty impacts the monetary transmission mechanism using Threshold VAR models estimated with sign restrictions across various countries. We found that in times of high uncertainty, monetary shocks are followed by a larger and longer-lasting contraction of output, than in normal times. However, our results show no significant difference in the reaction of inflation rates, indicating that uncertainty increases the cost of reducing inflation. Our results also suggest that more extreme levels of uncertainty amplify this effect.
 
 
 ## Conferences and presentations
