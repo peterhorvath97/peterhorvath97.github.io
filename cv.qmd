@@ -9,13 +9,13 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2054/03/10*
+*Last update: 2025/06/20*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
 ## Research Interest
 
-Applied econometrics, empirical macroeconomics, machine learning methods. 
+Applied econometrics, empirical macroeconomics, machine learning methods, risk-modelling. 
 Currently, I am working on natural language processing applications in monetary policy analysis.
 
 ## Current position
@@ -32,7 +32,7 @@ Currently, I am working on natural language processing applications in monetary 
 ## Conferences and presentations
  - IMF SPR Summer Intern Research Seminar
     - 2023: *Monetary transmission in a fragmented uncertain world* - Washington D.C.
- - Hungarian Society of Economist Yearly Conference
+ - Hungarian Society of Economist Annual Conference
     - 2022: *The Impact of Uncertainty on Monetary Transmission*  - Pécs
 
 
@@ -54,6 +54,7 @@ Currently, I am working on natural language processing applications in monetary 
  - 2021-    : PhD in Economics at Corvinus University of Budapest
     - Advisor: István Kónya
     - Thesis: Essays on Monetary Transmission
+ - 2025     : Summer School in [Econometric Methods for Risk Assessment and Forecasting](https://sites.google.com/view/sofieschoolbrussels/home)    
  - 2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University
  - 2019-2020: MSc in Economic Analysis at Corvinus University of Budapest
  - 2016-2019: BA in Applied Economics at Corvinus University of Budapest
