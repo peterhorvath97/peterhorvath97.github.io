@@ -9,7 +9,7 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2025/06/20*
+*Last update: 2025/10/09*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
@@ -20,12 +20,15 @@ Currently, I am working on natural language processing applications in monetary 
 
 ## Current position
 
-- *Research Intern* -- European Investment Bank (2025 March - Aug)
-	- My role is to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assist the department’s economists with various ad hoc tasks.
+- *Academic Consultant* -- Ministry for National Economy 
+	- I work on revamping and automating the core scenario analysis tool called "DiNAMO". Additionally I am developing a Bayesian Mixed Frequency VAR model to forecast/nowcast GDP using monthly and weekly data.
 
 ## Previous Positions and Research Experiences
 
-- *Summer Research Intern* -- International Monetary Fund (2023)
+- *Research Intern* -- European Investment Bank (2025 March - August)
+	- My role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department's economists with various ad hoc tasks.  
+
+- *Summer Research Intern* -- International Monetary Fund (2023 June - September)
 	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. In this paper we investigated how economic uncertainty impacts the monetary transmission mechanism using Threshold VAR models estimated with sign restrictions across various countries. We found that in times of high uncertainty, monetary shocks are followed by a larger and longer-lasting contraction of output, than in normal times. However, our results show no significant difference in the reaction of inflation rates, indicating that uncertainty increases the cost of reducing inflation. Our results also suggest that more extreme levels of uncertainty amplify this effect.
 
 
@@ -61,7 +64,7 @@ Currently, I am working on natural language processing applications in monetary 
 
 
 ## Work experience
- - **Hungarian Ministry of Finance** (2020 - 2022)
+ - **Hungarian Ministry of Finance** (2020 May - 2022 August)
 	- I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
 	
 ## Publications
