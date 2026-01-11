@@ -1,13 +1,16 @@
 ---
 title: "Papers"
 ---
-*Last update: 2025/06/20*
+*Last update: 2026/01/11*
 
 ## Published papers
 
 - *[Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4)* In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine. Contributions to Economics. Springer, Cham. https://doi.org/10.1007/978-3-031-61561-0_4 
   - Joint work with Szilárd Benk and Norbert Szepesi
   - **Abstract:** The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.
+
+- *[Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis](https://doi.org/10.1111/manc.70034)*
+  - **Abstract:** In recent decades, persistently low rates have driven housing booms and prompted questions on how market imbalances interact with monetary policy. In this paper, I investigate how such imbalances affect the monetary transmission in the United States. I create a boom-bust cycle indicator from the rent‑price ratio and credit‑to‑GDP gap, then embed it in a factor‑augmented threshold VAR with two regimes to isolate the two parts of the cycle. Impulse responses show that monetary policy itself behaves differently conditional on the state of the housing market. Interest rates are eased much more gradually around booms, which suggests that broader macro-financial signals are incorporated into the policy framework in order to effectively manage deleveraging in the market. The transmission channel appears to be less affected, as real and financial aggregates show only somewhat larger contractions in response to a monetary policy shock in a booming market.
 
 ## Dissertation chapters
 
@@ -18,32 +21,26 @@ title: "Papers"
   
 \vspace{4em}
 
+
 - **Chapter 2:** *[Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence from a Factor-Augmented Threshold VAR Analysis?](papers/housing_tfavar.pdf)*
-  - **Abstract:** This paper discusses the US housing market from a monetary policy point of view. In recent years we saw a vast increase in real housing prices, which could be a consequence of the low interest rate environment. Recent economic developments causing heightened inflationary pressure however lead most central banks to start an aggressive interest rate rise policy, ending the low interest rate era. This leads us to the proposed question - could the interest rate hikes burst the housing bubble? To investigate this, I estimate a two-regime TVAR model dependent on housing prices using US data. Results show that although the size of the impact of an interest rate shock is similar in both regimes, its persistence much stronger when housing prices are high.
-  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
+  - **Stage:** Published, please see above.
 
 \vspace{4em}
   
-- **Chapter 3:** *Guiding the Tails: Measuring the Impact of Forward Guidance on Yield-Curve Extremes* 
-  - **Abstract:** TBA
-  - **Stage:** Work in progress (Please feel free to reach out in case of interest.)
+- **Chapter 3:** *[A Distributional Perspective on Forward Guidance and the US Term Structure](papers/forwardguidance_volatility.pdf)* 
+  - **Abstract:** This paper revisits the impact of forward guidance on the term structure of U.S. interest rates. Using a dynamic location–scale model, I find that FOMC forward guidance announcements not only depress the yield curve, but also reduce the conditional volatility of yield changes. The volatility channel is persistent across maturities and strongest at shorter ones. This volatility effect is consistent across nominal and real yields, as well as implied expected inflation. These results are robust to a number of specification, including ones that account for central bank information shocks and ones that exclude forward guidance conducted when rates were near the zero lower bound.
+  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
 
 
 ## Ongoing research projects
 
-- *How does grant design shape investment, output, and productivity in Europe?* 
+- *[How does grant design shape investment, output, and productivity in Europe?](papers/macrogrants.pdf)* 
   - Joint work with Atanas Kolev (EIB) and Laurent Maurin (EIB) during the EIB Traineeship Program.
-  - **Abstract:** This paper investigates the impact of government grants on investments, output and productivity across the EU. We use Bayesian Vector Autoregressions identified with long-run restrictions to disentangle two types of grant shocks: generic and targeted. We find that well-targeted grants that raise productivity permanently translate into larger gains in output and investments as well. The permanent increase in productivity is primarily fueled by such grants being allocated to more productive investments, such as intellectual property products. In contrast, generic support grants are more likely to be allocated to replenish physical capital. The magnitude of the responses appears to be heterogeneous across European economies in our sample. EIB Investment Survey information suggests that this heterogeneity is driven by firms facing different economic and regulatory conditions.
-  - **Stage:** Conference-ready (Please feel free to reach out in case of interest.)
-
-\vspace{4em}
-
-- *Dynamics of geoeconomic fragmentation* 
-  - **Abstract:** This paper investigates the macroeconomic impacts of geoeconomic fragmentation shocks identified using the Global Trade Alerts  database. Impulse responses are estimated across a panel of economies using Local Projections to derive the dynamic impact of GEF shocks. Results indicate a short run demand contraction following these episodes, followed by a medium term upswing in domestic demand, and prolonged inflationary pressure in the long-run. These findings suggest that effective policy should focus on maintaining stable multilateral trade relations, providing short-term support to stabilize key economic sectors, and implementing measures to manage long-term inflationary pressures. Close monitoring of both domestic and foreign market dynamics is essential to tailor policies effectively and mitigate the adverse impacts of GEF shocks.
-  - **Stage:** Work in progress / To be reworked. (Please feel free to reach out in case of interest.)
+  - **Abstract:** This paper investigates the impact of government investment grants on investments, output and productivity across EU economies. We estimate Bayesian Vector Autoregressions for a wide range of EU countries using priors derived at the EU level. We then use a mix of impact restrictions as well as short-run and long-run sign restrictions to identify two types of grant allotments: demand-support and productivity-enhancing. We find that, compared to demand-support grants, productivity-enhancing grants translate into much larger gains in investment and output as well. We also find that the permanent increase in productivity is due to the fact that such grants are allocated to more productive investments, such as intellectual property products. In contrast, demand-support grants are more likely to be allocated to replenishing physical capital, as shown by the response of investment in machinery and equipment. The magnitude of the responses appears to vary substantially across European economies in our sample. We use the EIB Investment Survey to better understand these differences. We match the estimated responses with survey information to characterize the investment environment in each country. We find characteristics, such as the prevailing uncertainty, the cost of bureaucracy, or the degree of fragmentation, do explain part of the differences in the macroeconomic response. Overall, our analysis emphasizes that the nature of grants and the rationale behind their allotment influence the macroeconomic benefits. Moreover, providing a business environment more suitable to investment also raises the impact of the public financial support to corporate investment.
+  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
 
 \vspace{8em}
 
-Further details and replication files can be found [here](https://github.com/peterhorvath97?tab=repositories).
+Please feel free to reach out for replication files, or check my GitHub repos [here](https://github.com/peterhorvath97?tab=repositories).
 
 [back](./)

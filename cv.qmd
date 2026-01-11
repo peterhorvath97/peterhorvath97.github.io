@@ -9,28 +9,30 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2025/10/09*
+*Last update: 2026/01/11*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
 ## Research Interest
 
-Applied econometrics, empirical macroeconomics, machine learning methods, risk-modelling. 
-Currently, I am working on natural language processing applications in monetary policy analysis.
+Applied econometrics, empirical macroeconomics, machine learning methods, risk modelling. 
+Currently, I am working on modelling conditional distributions as well as nowcasting and scenario analysis models.
 
 ## Current position
 
-- *Academic Consultant* -- Ministry for National Economy 
-	- I work on revamping and automating the core scenario analysis tool called "DiNAMO". Additionally I am developing a Bayesian Mixed Frequency VAR model to forecast/nowcast GDP using monthly and weekly data.
+- *Academic Consultant* -- Ministry for National Economy (Budapest, Hungary, 2025 September - )
+	- I work on upgrading and automating the core scenario analysis tool called "DiNAMO". Additionally I am developing a Bayesian Mixed Frequency VAR model to nowcast quarterly GDP growth using higher frequency indicators. 
 
 ## Previous Positions and Research Experiences
 
-- *Research Intern* -- European Investment Bank (2025 March - August)
+- *Research Intern* -- European Investment Bank (Luxembourg, Luxembourg, 2025 March - August)
 	- My role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department's economists with various ad hoc tasks.  
 
-- *Summer Research Intern* -- International Monetary Fund (2023 June - September)
+- *Research Intern* -- International Monetary Fund (Washington D.C., USA, 2023 June - September)
 	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. In this paper we investigated how economic uncertainty impacts the monetary transmission mechanism using Threshold VAR models estimated with sign restrictions across various countries. We found that in times of high uncertainty, monetary shocks are followed by a larger and longer-lasting contraction of output, than in normal times. However, our results show no significant difference in the reaction of inflation rates, indicating that uncertainty increases the cost of reducing inflation. Our results also suggest that more extreme levels of uncertainty amplify this effect.
 
+- *Tax Policy Analyst* -- Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)
+  - I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
 
 ## Conferences and presentations
  - IMF SPR Summer Intern Research Seminar
@@ -56,20 +58,17 @@ Currently, I am working on natural language processing applications in monetary 
 ## Education
  - 2021-    : PhD in Economics at Corvinus University of Budapest
     - Advisor: István Kónya
-    - Thesis: Essays on Monetary Transmission
+    - Thesis: Essays on the nonlinear transmission of monetary policy
  - 2025     : Summer School in [Econometric Methods for Risk Assessment and Forecasting](https://sites.google.com/view/sofieschoolbrussels/home)    
  - 2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University
  - 2019-2020: MSc in Economic Analysis at Corvinus University of Budapest
  - 2016-2019: BA in Applied Economics at Corvinus University of Budapest
 
 
-## Work experience
- - **Hungarian Ministry of Finance** (2020 May - 2022 August)
-	- I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
-	
 ## Publications
 - [Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4) - *joint work with Szilárd Benk and Norbert Szepesi*
 	- In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.
+- [Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis](https://doi.org/10.1111/manc.70034)	
 - Further information on my ongoing research projects can be found [here](https://peterhorvath97.github.io/papers.html).
 
 ## Skills
