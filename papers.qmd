@@ -1,7 +1,7 @@
 ---
 title: "Papers"
 ---
-*Last update: 2026/01/11*
+*Last update: 2026/08/28*
 
 ## Published papers
 
@@ -16,7 +16,7 @@ title: "Papers"
 
 - **Chapter 1:** *[Monetary Transmission in a fragmented uncertain world](papers/uncertainty_transmission.pdf)* 
   - Joint work with Tohid Atashbar (IMF) during the Fund Internship Program.
-  - **Abstract:** In this paper, we investigate the nonlinear relationship between economic uncertainty and the monetary transmission mechanism. We use a Threshold Vector Autoregression model and impose sign-restrictions on quarterly interest rates, GDP growth, and CPI inflation across a broad range of countries. Our findings suggest that during periods of elevated uncertainty, monetary shocks lead to more profound economic contractions, followed by sluggish output adjustments. The effectiveness in curbing inflation exhibits mixed results contingent on the underlying uncertainty narrative. Nonetheless, the overarching trend in our results tends to support the notion that heightened uncertainty acts as a channel for propagating shocks, thereby amplifying their influence. Consequently, our implications for policymakers emphasize that while heightened uncertainty does not inherently hinder the transmission mechanism, it does disrupt monetary policy by escalating the costs associated with reducing inflation.
+  - **Abstract:** This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.
   - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
   
 \vspace{4em}
@@ -28,7 +28,7 @@ title: "Papers"
 \vspace{4em}
   
 - **Chapter 3:** *[A Distributional Perspective on Forward Guidance and the US Term Structure](papers/forwardguidance_volatility.pdf)* 
-  - **Abstract:** This paper revisits the impact of forward guidance on the term structure of U.S. interest rates. Using a dynamic location–scale model, I find that FOMC forward guidance announcements not only depress the yield curve, but also reduce the conditional volatility of yield changes. The volatility channel is persistent across maturities and strongest at shorter ones. This volatility effect is consistent across nominal and real yields, as well as implied expected inflation. These results are robust to a number of specification, including ones that account for central bank information shocks and ones that exclude forward guidance conducted when rates were near the zero lower bound.
+  - **Abstract:** This paper investigates the impact of monetary policy and forward guidance on the U.S. term structure of interest rates with a focus on how it affects conditional volatility dynamics. Employing a dynamic location-scale model and several high-frequency surprises, I find that monetary policy announcements have a significant effect on the conditional volatility of the yield curve. While standard policy rate shocks generally increase volatility, forward guidance tends to compress it. However, these effects on conditional volatility are far smaller and less persistent than the conditional mean effects. The volatility channel is primarily driven by information signals and is asymmetric with respect to the sign of the shock. The results are robust to alternative specifications.
   - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
 
 

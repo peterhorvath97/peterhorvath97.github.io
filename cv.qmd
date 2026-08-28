@@ -9,7 +9,7 @@ project:
 ---
 
 # Curriculum Vitae
-*Last update: 2026/01/11*
+*Last update: 2026/08/28*
 
 [Download CV](assets/horvathpeter_cv.pdf)
 
@@ -20,8 +20,8 @@ Currently, I am working on modelling conditional distributions as well as nowcas
 
 ## Current position
 
-- *Academic Consultant* -- Ministry for National Economy (Budapest, Hungary, 2025 September - )
-	- I work on upgrading and automating the core scenario analysis tool called "DiNAMO". Additionally I am developing a Bayesian Mixed Frequency VAR model to nowcast quarterly GDP growth using higher frequency indicators. 
+- *Research Economist* -- Ministry of Finance (Budapest, Hungary, 2025 September - )
+	- I work on the macro-modelling and forecasting toolkit of the Macro Division.
 
 ## Previous Positions and Research Experiences
 
@@ -29,7 +29,7 @@ Currently, I am working on modelling conditional distributions as well as nowcas
 	- My role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department's economists with various ad hoc tasks.  
 
 - *Research Intern* -- International Monetary Fund (Washington D.C., USA, 2023 June - September)
-	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. In this paper we investigated how economic uncertainty impacts the monetary transmission mechanism using Threshold VAR models estimated with sign restrictions across various countries. We found that in times of high uncertainty, monetary shocks are followed by a larger and longer-lasting contraction of output, than in normal times. However, our results show no significant difference in the reaction of inflation rates, indicating that uncertainty increases the cost of reducing inflation. Our results also suggest that more extreme levels of uncertainty amplify this effect.
+	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.
 
 - *Tax Policy Analyst* -- Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)
   - I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
@@ -59,6 +59,7 @@ Currently, I am working on modelling conditional distributions as well as nowcas
  - 2021-    : PhD in Economics at Corvinus University of Budapest
     - Advisor: István Kónya
     - Thesis: Essays on the nonlinear transmission of monetary policy
+    - Full dissertation available [here](papers/dissertation_HP_revised.pdf).
  - 2025     : Summer School in [Econometric Methods for Risk Assessment and Forecasting](https://sites.google.com/view/sofieschoolbrussels/home)    
  - 2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University
  - 2019-2020: MSc in Economic Analysis at Corvinus University of Budapest
