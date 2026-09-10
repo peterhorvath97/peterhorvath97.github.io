@@ -4,31 +4,42 @@ project:
 
 website:
   title: "Péter Horváth"
-  #favicon: "images/google-scholar.svg"
-  #google-analytics: ""
-  sidebar:
-    tools:
+  description: "Péter Horváth — policy economist working on empirical macroeconomics, monetary policy and econometric modelling."
+  navbar:
+    background: "#f7f6f2"
+    foreground: "#16202a"
+    title: "Péter Horváth"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      #- href: codes.qmd
+      #  text: Data & code
+    right:
+      - icon: envelope
+        href: mailto:horvathpeter970217@gmail.com
+        aria-label: Email
       - icon: linkedin
         href: https://www.linkedin.com/in/p%C3%A9ter-horv%C3%A1th-193090131/
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/peterhorvath97
-    style: "docked"
-    search: true
-    contents:
-      - index.qmd
-      - section: "About me"
-        contents:
-          - cv.qmd
-      - section: "Research"
-        contents:
-          - papers.qmd
-
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Péter Horváth"
+    right:
+      - text: "Policy economist · Empirical macroeconomics"
+  search: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    html-math-method: katex
+    anchor-sections: false

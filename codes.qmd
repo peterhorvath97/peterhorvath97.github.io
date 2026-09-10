@@ -1,4 +1,67 @@
 ---
-title: "Codes"
+title: "Data & code"
 ---
+
+::: {.page-hero .compact}
+::: {.page-hero-copy}
+::: {.eyebrow}
+DATA & CODE
+:::
+
+:::
+
+This page is the landing point for replication files, research code and publicly shareable data accompanying my research. Materials will be added here as projects become ready for public release.
+:::
+
+
+## Replication packages
+
+::: {.resource-grid}
+::: {.resource-card}
+::: {.card-kicker}
+REPLICATION
+:::
+
+### Project-specific materials
+
+Each public replication package will include the code needed to reproduce the main results, a short README, and information on data sources and requirements.
+
+::: {.resource-meta}
+**For future releases**  
+Code · data instructions · documentation
+:::
+:::
+:::
+
+## Research code
+
+::: {.resource-grid}
+::: {.resource-card}
+::: {.card-kicker}
+GITHUB
+:::
+
+### Reusable econometric code
+
+Selected scripts, functions and research tools will be made available through my GitHub repositories. The repository structure keeps project-specific replication materials separate from reusable code.
+
+[Browse GitHub repositories ↗](https://github.com/peterhorvath97?tab=repositories){.btn .btn-secondary}
+:::
+:::
+
+## Data
+
+::: {.resource-grid}
+::: {.resource-card}
+::: {.card-kicker}
+PUBLIC DATA
+:::
+
+### Data and construction scripts
+
+Where data can be redistributed, releases will include the underlying public data or a reproducible script for obtaining and constructing the analysis dataset. Restricted or licensed data will not be redistributed here; documentation will instead explain how eligible researchers can obtain it.
+:::
+:::
+
+
 

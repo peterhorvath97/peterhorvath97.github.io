@@ -1,46 +1,114 @@
 ---
-title: "Papers"
+title: "Research"
 ---
-*Last update: 2026/08/28*
 
-## Published papers
-
-- *[Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4)* In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine. Contributions to Economics. Springer, Cham. https://doi.org/10.1007/978-3-031-61561-0_4 
-  - Joint work with Szilárd Benk and Norbert Szepesi
-  - **Abstract:** The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.
-
-- *[Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis](https://doi.org/10.1111/manc.70034)*
-  - **Abstract:** In recent decades, persistently low rates have driven housing booms and prompted questions on how market imbalances interact with monetary policy. In this paper, I investigate how such imbalances affect the monetary transmission in the United States. I create a boom-bust cycle indicator from the rent‑price ratio and credit‑to‑GDP gap, then embed it in a factor‑augmented threshold VAR with two regimes to isolate the two parts of the cycle. Impulse responses show that monetary policy itself behaves differently conditional on the state of the housing market. Interest rates are eased much more gradually around booms, which suggests that broader macro-financial signals are incorporated into the policy framework in order to effectively manage deleveraging in the market. The transmission channel appears to be less affected, as real and financial aggregates show only somewhat larger contractions in response to a monetary policy shock in a booming market.
-
-## Dissertation chapters
-
-- **Chapter 1:** *[Monetary Transmission in a fragmented uncertain world](papers/uncertainty_transmission.pdf)* 
-  - Joint work with Tohid Atashbar (IMF) during the Fund Internship Program.
-  - **Abstract:** This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.
-  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
-  
-\vspace{4em}
+::: {.page-hero .compact}
+::: {.page-hero-copy}
+::: {.eyebrow}
+RESEARCH
+:::
 
 
-- **Chapter 2:** *[Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence from a Factor-Augmented Threshold VAR Analysis?](papers/housing_tfavar.pdf)*
-  - **Stage:** Published, please see above.
-
-\vspace{4em}
-  
-- **Chapter 3:** *[A Distributional Perspective on Forward Guidance and the US Term Structure](papers/forwardguidance_volatility.pdf)* 
-  - **Abstract:** This paper investigates the impact of monetary policy and forward guidance on the U.S. term structure of interest rates with a focus on how it affects conditional volatility dynamics. Employing a dynamic location-scale model and several high-frequency surprises, I find that monetary policy announcements have a significant effect on the conditional volatility of the yield curve. While standard policy rate shocks generally increase volatility, forward guidance tends to compress it. However, these effects on conditional volatility are far smaller and less persistent than the conditional mean effects. The volatility channel is primarily driven by information signals and is asymmetric with respect to the sign of the shock. The results are robust to alternative specifications.
-  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
+:::
+:::
 
 
-## Ongoing research projects
 
-- *[How does grant design shape investment, output, and productivity in Europe?](papers/macrogrants.pdf)* 
-  - Joint work with Atanas Kolev (EIB) and Laurent Maurin (EIB) during the EIB Traineeship Program.
-  - **Abstract:** This paper investigates the impact of government investment grants on investments, output and productivity across EU economies. We estimate Bayesian Vector Autoregressions for a wide range of EU countries using priors derived at the EU level. We then use a mix of impact restrictions as well as short-run and long-run sign restrictions to identify two types of grant allotments: demand-support and productivity-enhancing. We find that, compared to demand-support grants, productivity-enhancing grants translate into much larger gains in investment and output as well. We also find that the permanent increase in productivity is due to the fact that such grants are allocated to more productive investments, such as intellectual property products. In contrast, demand-support grants are more likely to be allocated to replenishing physical capital, as shown by the response of investment in machinery and equipment. The magnitude of the responses appears to vary substantially across European economies in our sample. We use the EIB Investment Survey to better understand these differences. We match the estimated responses with survey information to characterize the investment environment in each country. We find characteristics, such as the prevailing uncertainty, the cost of bureaucracy, or the degree of fragmentation, do explain part of the differences in the macroeconomic response. Overall, our analysis emphasizes that the nature of grants and the rationale behind their allotment influence the macroeconomic benefits. Moreover, providing a business environment more suitable to investment also raises the impact of the public financial support to corporate investment.
-  - **Stage:** Conference-ready (Please click the link above to read the latest version of the working paper.)
 
-\vspace{8em}
+## Dissertation
 
-Please feel free to reach out for replication files, or check my GitHub repos [here](https://github.com/peterhorvath97?tab=repositories).
+::: {.dissertation-head}
+::: {.dissertation-copy}
+::: {.card-kicker}
+PHD DISSERTATION · CORVINUS UNIVERSITY OF BUDAPEST
+:::
 
-[back](./)
+### Essays on the Nonlinear Transmission of Monetary Policy
+
+My dissertation studies how the transmission of monetary policy varies across economic states, uncertainty regimes and dimensions of the yield curve.
+:::
+
+[Full dissertation ↗](papers/dissertation_HP_revised.pdf){.text-link}
+:::
+
+### Chapter 1 — Monetary Transmission in a Fragmented Uncertain World
+
+::: {.paper-row}
+::: {.paper-copy}
+::: {.paper-status}
+CONFERENCE-READY · WITH TOHID ATASHBAR
+:::
+
+### [Monetary Transmission in a Fragmented Uncertain World](papers/uncertainty_transmission.pdf)
+
+How economic uncertainty affects monetary policy transmission. Using Bayesian threshold VARs across 30 economies, the paper finds that inflation responds markedly less to monetary shocks in high-uncertainty states while the GDP response remains comparatively stable.
+:::
+
+[PDF ↗](papers/uncertainty_transmission.pdf){.text-link}
+:::
+
+### Chapter 2 — Housing-market imbalances and monetary transmission
+
+::: {.paper-row}
+::: {.paper-copy}
+::: {.paper-status}
+PUBLISHED · 2026
+:::
+
+### [Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis](https://doi.org/10.1111/manc.70034)
+
+Housing-market conditions affect both monetary-policy behaviour and the transmission of monetary shocks. Evidence from the United States points to more gradual policy easing around housing booms and somewhat stronger contractions in activity and financial aggregates.
+:::
+
+[Journal ↗](https://doi.org/10.1111/manc.70034){.text-link}
+:::
+
+### Chapter 3 — Forward guidance and the yield curve
+
+::: {.paper-row}
+::: {.paper-copy}
+::: {.paper-status}
+CONFERENCE-READY
+:::
+
+### [A Distributional Perspective on Forward Guidance and the US Term Structure](papers/forwardguidance_volatility.pdf)
+
+Monetary policy announcements affect conditional volatility as well as the conditional mean of the US yield curve. Standard policy-rate shocks tend to increase volatility, while forward guidance compresses it, however, the volatility effects are smaller and less persistent than the mean effects.
+:::
+
+[PDF ↗](papers/forwardguidance_volatility.pdf){.text-link}
+:::
+
+## Other research
+
+::: {.paper-row}
+::: {.paper-copy}
+::: {.paper-status}
+CONFERENCE-READY · WITH ATANAS KOLEV & LAURENT MAURIN
+:::
+
+### [How Does Grant Design Shape Investment, Output, and Productivity in Europe?](papers/macrogrants.pdf)
+
+Bayesian VAR evidence from EU economies on how the design and allocation of government investment grants shape investment, output and productivity. The project was developed during the EIB Traineeship Program.
+:::
+
+[PDF ↗](papers/macrogrants.pdf){.text-link}
+:::
+
+::: {.paper-row}
+::: {.paper-copy}
+::: {.paper-status}
+PUBLISHED · 2024 · WITH SZILÁRD BENK & NORBERT SZEPESI
+:::
+
+### [Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4)
+
+Chapter in *Central and Eastern European Economies and the War in Ukraine*, examining the inflation surge and monetary-policy responses across Central and Eastern Europe.
+:::
+
+[Publication ↗](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4){.text-link}
+:::
+
+::: {.research-footer}
+Last updated: August 2026.
+:::

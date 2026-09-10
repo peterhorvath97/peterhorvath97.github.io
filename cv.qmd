@@ -2,85 +2,172 @@
 title: "CV"
 format:
   html:
-    minimal: false
+    toc: false
 project:
   resources:
    - "assets/horvathpeter_cv.pdf"
 ---
 
-# Curriculum Vitae
-*Last update: 2026/08/28*
+::: {.page-hero .compact}
+::: {.page-hero-copy}
+::: {.eyebrow}
+CURRICULUM VITAE
+:::
 
-[Download CV](assets/horvathpeter_cv.pdf)
+# Péter Horváth
+:::
 
-## Research Interest
+[Download PDF ↗](assets/horvathpeter_cv.pdf){.btn .btn-primary}
+:::
 
-Applied econometrics, empirical macroeconomics, machine learning methods, risk modelling. 
-Currently, I am working on modelling conditional distributions as well as nowcasting and scenario analysis models.
+::: {.cv-summary}
+**Research economist**  
+Ministry of Finance of Hungary
 
-## Current position
+**PhD Candidate**  
+Corvinus University of Budapest
 
-- *Research Economist* -- Ministry of Finance (Budapest, Hungary, 2025 September - )
-	- I work on the macro-modelling and forecasting toolkit of the Macro Division.
-
-## Previous Positions and Research Experiences
-
-- *Research Intern* -- European Investment Bank (Luxembourg, Luxembourg, 2025 March - August)
-	- My role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department's economists with various ad hoc tasks.  
-
-- *Research Intern* -- International Monetary Fund (Washington D.C., USA, 2023 June - September)
-	- My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.
-
-- *Tax Policy Analyst* -- Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)
-  - I was responsible for monthly reports  and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data. 
-
-## Conferences and presentations
- - IMF SPR Summer Intern Research Seminar
-    - 2023: *Monetary transmission in a fragmented uncertain world* - Washington D.C.
- - Hungarian Society of Economist Annual Conference
-    - 2022: *The Impact of Uncertainty on Monetary Transmission*  - Pécs
+**Field**  
+Empirical macroeconomics & monetary policy
+:::
 
 
-## Teaching experience
- - **Lecturer**
-    - Macroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)
-    - Microeconomics (Business Economics BA and Applied Economics BA)
-    - International Economics (Business Economics BA and Economics and Financial Mathematics MSc)
- - **Teaching Assistant**
-    - Microeconomics (Business Economics BA)
-    - Macroeconomics (Business Economics BA)
-    - Game Theory (Applied Economics BA)
-    - Macroeconomic Modeling (Applied Economics BA)
-    - Advanced Macroeconomics (Economic Analysis Msc and Economics and Financial Mathematics MSc)
+## Experience
 
+::: {.cv-item}
+::: {.cv-date}
+Sep. 2025 — present
+:::
+::: {.cv-copy}
+### Research Economist · Ministry of Finance of Hungary
+
+Work on the macro-modelling and forecasting toolkit of the Macro Division, including quantitative analysis for policy and scenario work.
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+Mar. — Aug. 2025
+:::
+::: {.cv-copy}
+### Research Intern · European Investment Bank
+
+Collaborated on research on government investment grants, investment and broader macroeconomic aggregates, with the project intended for the Annual Investment Report and peer-reviewed publication.
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+Jun. — Sep. 2023
+:::
+::: {.cv-copy}
+### Research Intern · International Monetary Fund
+
+Worked in the Strategy, Policy, and Review Department on how monetary transmission changes under high uncertainty using Bayesian threshold VARs across 30 economies.
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+May 2020 — Aug. 2022
+:::
+::: {.cv-copy}
+### Tax Policy Analyst · Ministry of Finance of Hungary
+
+Forecasting tax revenues, managing tax-return data, conducting microsimulation-based policy analysis and preparing staff notes.
+:::
+:::
+
+## Research & publications
+
+::: {.cv-research}
+::: {.cv-research-item}
+**2026 · Published**  \
+**Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis**  \
+Dissertation chapter.
+:::
+::: {.cv-research-item}
+**2024 · Published**  \
+**Inflation Shock and Monetary Policy**  \
+With Szilárd Benk and Norbert Szepesi.
+:::
+::: {.cv-research-item}
+**Working paper**  \
+**Monetary Transmission in a Fragmented Uncertain World**  \
+Dissertation chapter, coauthored with Tohid Atashbar.
+:::
+::: {.cv-research-item}
+**Working paper**  \
+**A Distributional Perspective on Forward Guidance and the US Term Structure**  \
+Dissertation chapter.
+:::
+::: {.cv-research-item}
+**Working paper**  \
+**How Does Grant Design Shape Investment, Output, and Productivity in Europe?**  \
+Coauthored with Atanas Kolev and Laurent Maurin.
+:::
+:::
 
 
 ## Education
- - 2021-    : PhD in Economics at Corvinus University of Budapest
-    - Advisor: István Kónya
-    - Thesis: Essays on the nonlinear transmission of monetary policy
-    - Full dissertation available [here](papers/dissertation_HP_revised.pdf).
- - 2025     : Summer School in [Econometric Methods for Risk Assessment and Forecasting](https://sites.google.com/view/sofieschoolbrussels/home)    
- - 2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University
- - 2019-2020: MSc in Economic Analysis at Corvinus University of Budapest
- - 2016-2019: BA in Applied Economics at Corvinus University of Budapest
 
+::: {.cv-item}
+::: {.cv-date}
+2021 — present
+:::
+::: {.cv-copy}
+### PhD in Economics · Corvinus University of Budapest
 
-## Publications
-- [Inflation Shock and Monetary Policy](https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4) - *joint work with Szilárd Benk and Norbert Szepesi*
-	- In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.
-- [Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis](https://doi.org/10.1111/manc.70034)	
-- Further information on my ongoing research projects can be found [here](https://peterhorvath97.github.io/papers.html).
+Field: Empirical Macroeconomics and Monetary Policy · Supervisor: István Kónya · Thesis: *Essays on the nonlinear transmission of monetary policy*.
+:::
+:::
 
-## Skills
- - **Language**
-    - *English*: C1 certificate: general (2016) 
-    - *German*: B2 certificate: general (2019)
- - **IT skills**: 
-	- *Proficient*: R, Microsoft Office
-	- *Advanced*: Stata
-	- *Intermediate*: Matlab
+::: {.cv-item}
+::: {.cv-date}
+2022 — 2024
+:::
+::: {.cv-copy}
+### MSc in Quantitative Economics · Eötvös Loránd University
+:::
+:::
 
-<a href="/assets/horvathpeter_cv.pdf" download="horvathpeter_cv"> Download CV
+::: {.cv-item}
+::: {.cv-date}
+2019 — 2021
+:::
+::: {.cv-copy}
+### MSc in Economic Analysis · Corvinus University of Budapest
+:::
+:::
 
-[back](./)
+::: {.cv-item}
+::: {.cv-date}
+2016 — 2019
+:::
+::: {.cv-copy}
+### BA in Applied Economics · Corvinus University of Budapest
+:::
+:::
+
+## Teaching & skills
+
+::: {.two-col .cv-bottom}
+::: {.teaching-copy}
+### Teaching
+
+**Lecturer:** Macroeconomics, Microeconomics, International Economics.
+
+**Teaching Assistant:** Microeconomics, Macroeconomics, Game Theory, Macroeconomic Modeling and Advanced Macroeconomics.
+:::
+::: {.skills-copy}
+### Technical skills
+
+**R** · professional &nbsp; **Stata** · advanced &nbsp; **Matlab** · intermediate &nbsp; **Python** · basic
+
+**Languages:** Hungarian (native), English (proficient), German (basic).
+:::
+:::
+
+::: {.research-footer}
+Last updated: August 2026 · [Full PDF CV](assets/horvathpeter_cv.pdf)
+:::

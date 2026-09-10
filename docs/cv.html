@@ -26,33 +26,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5d2e30ad26079c1dae90a1fd11eba2b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-71e230c856d3238224ea1b04dc0e14ec.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -67,117 +50,73 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cv.html">About me</a></li><li class="breadcrumb-item"><a href="./cv.html">CV</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
-    </div>
-  </nav>
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Péter Horváth</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./papers.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:horvathpeter970217@gmail.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/p%C3%A9ter-horv%C3%A1th-193090131/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/peterhorvath97"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Péter Horváth</a> 
-        <div class="sidebar-tools-main">
-    <a href="https://www.linkedin.com/in/p%C3%A9ter-horv%C3%A1th-193090131/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
-    <a href="https://github.com/peterhorvath97" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-</div>
-    </div>
-      </div>
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Péter Horváth</span></a>
-  </div>
-</li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">About me</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./cv.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">CV</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Research</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./papers.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Papers</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#curriculum-vitae" id="toc-curriculum-vitae" class="nav-link active" data-scroll-target="#curriculum-vitae">Curriculum Vitae</a>
-  <ul class="collapse">
-  <li><a href="#research-interest" id="toc-research-interest" class="nav-link" data-scroll-target="#research-interest">Research Interest</a></li>
-  <li><a href="#current-position" id="toc-current-position" class="nav-link" data-scroll-target="#current-position">Current position</a></li>
-  <li><a href="#previous-positions-and-research-experiences" id="toc-previous-positions-and-research-experiences" class="nav-link" data-scroll-target="#previous-positions-and-research-experiences">Previous Positions and Research Experiences</a></li>
-  <li><a href="#conferences-and-presentations" id="toc-conferences-and-presentations" class="nav-link" data-scroll-target="#conferences-and-presentations">Conferences and presentations</a></li>
-  <li><a href="#teaching-experience" id="toc-teaching-experience" class="nav-link" data-scroll-target="#teaching-experience">Teaching experience</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./cv.html">About me</a></li><li class="breadcrumb-item"><a href="./cv.html">CV</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">CV</h1>
 </div>
@@ -196,132 +135,154 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="curriculum-vitae" class="level1">
-<h1>Curriculum Vitae</h1>
-<p><em>Last update: 2026/08/28</em></p>
-<p><a href="assets/horvathpeter_cv.pdf">Download CV</a></p>
-<section id="research-interest" class="level2">
-<h2 class="anchored" data-anchor-id="research-interest">Research Interest</h2>
-<p>Applied econometrics, empirical macroeconomics, machine learning methods, risk modelling. Currently, I am working on modelling conditional distributions as well as nowcasting and scenario analysis models.</p>
+<div class="page-hero compact">
+<div class="page-hero-copy">
+<div class="eyebrow">
+<p>CURRICULUM VITAE</p>
+</div>
+<section id="péter-horváth" class="level1">
+<h1>Péter Horváth</h1>
 </section>
-<section id="current-position" class="level2">
-<h2 class="anchored" data-anchor-id="current-position">Current position</h2>
-<ul>
-<li><em>Research Economist</em> – Ministry of Finance (Budapest, Hungary, 2025 September - )
-<ul>
-<li>I work on the macro-modelling and forecasting toolkit of the Macro Division.</li>
-</ul></li>
-</ul>
+</div>
+<p><a href="assets/horvathpeter_cv.pdf" class="btn btn-primary">Download PDF ↗</a></p>
+</div>
+<div class="cv-summary">
+<p><strong>Research economist</strong><br>
+Ministry of Finance of Hungary</p>
+<p><strong>PhD Candidate</strong><br>
+Corvinus University of Budapest</p>
+<p><strong>Field</strong><br>
+Empirical macroeconomics &amp; monetary policy</p>
+</div>
+<section id="experience" class="level2">
+<h2 data-anchor-id="experience">Experience</h2>
+<div class="cv-item">
+<div class="cv-date">
+<p>Sep.&nbsp;2025 — present</p>
+</div>
+<section id="research-economist-ministry-of-finance-of-hungary" class="level3 cv-copy">
+<h3 data-anchor-id="research-economist-ministry-of-finance-of-hungary">Research Economist · Ministry of Finance of Hungary</h3>
+<p>Work on the macro-modelling and forecasting toolkit of the Macro Division, including quantitative analysis for policy and scenario work.</p>
 </section>
-<section id="previous-positions-and-research-experiences" class="level2">
-<h2 class="anchored" data-anchor-id="previous-positions-and-research-experiences">Previous Positions and Research Experiences</h2>
-<ul>
-<li><em>Research Intern</em> – European Investment Bank (Luxembourg, Luxembourg, 2025 March - August)
-<ul>
-<li>My role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department’s economists with various ad hoc tasks.</li>
-</ul></li>
-<li><em>Research Intern</em> – International Monetary Fund (Washington D.C., USA, 2023 June - September)
-<ul>
-<li>My project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.</li>
-</ul></li>
-<li><em>Tax Policy Analyst</em> – Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)
-<ul>
-<li>I was responsible for monthly reports and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data.</li>
-</ul></li>
-</ul>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>Mar.&nbsp;— Aug.&nbsp;2025</p>
+</div>
+<section id="research-intern-european-investment-bank" class="level3 cv-copy">
+<h3 data-anchor-id="research-intern-european-investment-bank">Research Intern · European Investment Bank</h3>
+<p>Collaborated on research on government investment grants, investment and broader macroeconomic aggregates, with the project intended for the Annual Investment Report and peer-reviewed publication.</p>
 </section>
-<section id="conferences-and-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="conferences-and-presentations">Conferences and presentations</h2>
-<ul>
-<li>IMF SPR Summer Intern Research Seminar
-<ul>
-<li>2023: <em>Monetary transmission in a fragmented uncertain world</em> - Washington D.C.</li>
-</ul></li>
-<li>Hungarian Society of Economist Annual Conference
-<ul>
-<li>2022: <em>The Impact of Uncertainty on Monetary Transmission</em> - Pécs</li>
-</ul></li>
-</ul>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>Jun.&nbsp;— Sep.&nbsp;2023</p>
+</div>
+<section id="research-intern-international-monetary-fund" class="level3 cv-copy">
+<h3 data-anchor-id="research-intern-international-monetary-fund">Research Intern · International Monetary Fund</h3>
+<p>Worked in the Strategy, Policy, and Review Department on how monetary transmission changes under high uncertainty using Bayesian threshold VARs across 30 economies.</p>
 </section>
-<section id="teaching-experience" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-experience">Teaching experience</h2>
-<ul>
-<li><strong>Lecturer</strong>
-<ul>
-<li>Macroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)</li>
-<li>Microeconomics (Business Economics BA and Applied Economics BA)</li>
-<li>International Economics (Business Economics BA and Economics and Financial Mathematics MSc)</li>
-</ul></li>
-<li><strong>Teaching Assistant</strong>
-<ul>
-<li>Microeconomics (Business Economics BA)</li>
-<li>Macroeconomics (Business Economics BA)</li>
-<li>Game Theory (Applied Economics BA)</li>
-<li>Macroeconomic Modeling (Applied Economics BA)</li>
-<li>Advanced Macroeconomics (Economic Analysis Msc and Economics and Financial Mathematics MSc)</li>
-</ul></li>
-</ul>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>May 2020 — Aug.&nbsp;2022</p>
+</div>
+<section id="tax-policy-analyst-ministry-of-finance-of-hungary" class="level3 cv-copy">
+<h3 data-anchor-id="tax-policy-analyst-ministry-of-finance-of-hungary">Tax Policy Analyst · Ministry of Finance of Hungary</h3>
+<p>Forecasting tax revenues, managing tax-return data, conducting microsimulation-based policy analysis and preparing staff notes.</p>
+</section>
+</div>
+</section>
+<section id="research-publications" class="level2">
+<h2 data-anchor-id="research-publications">Research &amp; publications</h2>
+<div class="cv-research">
+<div class="cv-research-item">
+<p><strong>2026 · Published</strong><br>
+<strong>Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis</strong><br>
+Dissertation chapter.</p>
+</div>
+<div class="cv-research-item">
+<p><strong>2024 · Published</strong><br>
+<strong>Inflation Shock and Monetary Policy</strong><br>
+With Szilárd Benk and Norbert Szepesi.</p>
+</div>
+<div class="cv-research-item">
+<p><strong>Working paper</strong><br>
+<strong>Monetary Transmission in a Fragmented Uncertain World</strong><br>
+Dissertation chapter, coauthored with Tohid Atashbar.</p>
+</div>
+<div class="cv-research-item">
+<p><strong>Working paper</strong><br>
+<strong>A Distributional Perspective on Forward Guidance and the US Term Structure</strong><br>
+Dissertation chapter.</p>
+</div>
+<div class="cv-research-item">
+<p><strong>Working paper</strong><br>
+<strong>How Does Grant Design Shape Investment, Output, and Productivity in Europe?</strong><br>
+Coauthored with Atanas Kolev and Laurent Maurin.</p>
+</div>
+</div>
 </section>
 <section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<ul>
-<li>2021- : PhD in Economics at Corvinus University of Budapest
-<ul>
-<li>Advisor: István Kónya</li>
-<li>Thesis: Essays on the nonlinear transmission of monetary policy</li>
-<li>Full dissertation available <a href="papers/dissertation_HP_revised.pdf">here</a>.</li>
-</ul></li>
-<li>2025 : Summer School in <a href="https://sites.google.com/view/sofieschoolbrussels/home">Econometric Methods for Risk Assessment and Forecasting</a><br>
-</li>
-<li>2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University</li>
-<li>2019-2020: MSc in Economic Analysis at Corvinus University of Budapest</li>
-<li>2016-2019: BA in Applied Economics at Corvinus University of Budapest</li>
-</ul>
+<h2 data-anchor-id="education">Education</h2>
+<div class="cv-item">
+<div class="cv-date">
+<p>2021 — present</p>
+</div>
+<section id="phd-in-economics-corvinus-university-of-budapest" class="level3 cv-copy">
+<h3 data-anchor-id="phd-in-economics-corvinus-university-of-budapest">PhD in Economics · Corvinus University of Budapest</h3>
+<p>Field: Empirical Macroeconomics and Monetary Policy · Supervisor: István Kónya · Thesis: <em>Essays on the nonlinear transmission of monetary policy</em>.</p>
 </section>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<ul>
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-031-61561-0_4">Inflation Shock and Monetary Policy</a> - <em>joint work with Szilárd Benk and Norbert Szepesi</em>
-<ul>
-<li>In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.</li>
-</ul></li>
-<li><a href="https://doi.org/10.1111/manc.70034">Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis</a><br>
-</li>
-<li>Further information on my ongoing research projects can be found <a href="https://peterhorvath97.github.io/papers.html">here</a>.</li>
-</ul>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>2022 — 2024</p>
+</div>
+<section id="msc-in-quantitative-economics-eötvös-loránd-university" class="level3 cv-copy">
+<h3 data-anchor-id="msc-in-quantitative-economics-eötvös-loránd-university">MSc in Quantitative Economics · Eötvös Loránd University</h3>
 </section>
-<section id="skills" class="level2">
-<h2 class="anchored" data-anchor-id="skills">Skills</h2>
-<ul>
-<li><strong>Language</strong>
-<ul>
-<li><em>English</em>: C1 certificate: general (2016)</li>
-<li><em>German</em>: B2 certificate: general (2019)</li>
-</ul></li>
-<li><strong>IT skills</strong>:
-<ul>
-<li><em>Proficient</em>: R, Microsoft Office</li>
-<li><em>Advanced</em>: Stata</li>
-<li><em>Intermediate</em>: Matlab</li>
-</ul></li>
-</ul>
-<p><a href="./assets/horvathpeter_cv.pdf" download="horvathpeter_cv"> Download CV</a></p><a href="./assets/horvathpeter_cv.pdf" download="horvathpeter_cv">
-</a><p><a href="./assets/horvathpeter_cv.pdf" download="horvathpeter_cv"></a><a href="./">back</a></p>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>2019 — 2021</p>
+</div>
+<section id="msc-in-economic-analysis-corvinus-university-of-budapest" class="level3 cv-copy">
+<h3 data-anchor-id="msc-in-economic-analysis-corvinus-university-of-budapest">MSc in Economic Analysis · Corvinus University of Budapest</h3>
+</section>
+</div>
+<div class="cv-item">
+<div class="cv-date">
+<p>2016 — 2019</p>
+</div>
+<section id="ba-in-applied-economics-corvinus-university-of-budapest" class="level3 cv-copy">
+<h3 data-anchor-id="ba-in-applied-economics-corvinus-university-of-budapest">BA in Applied Economics · Corvinus University of Budapest</h3>
+</section>
+</div>
+</section>
+<section id="teaching-skills" class="level2">
+<h2 data-anchor-id="teaching-skills">Teaching &amp; skills</h2>
+<div class="two-col cv-bottom">
+<section id="teaching" class="level3 teaching-copy">
+<h3 data-anchor-id="teaching">Teaching</h3>
+<p><strong>Lecturer:</strong> Macroeconomics, Microeconomics, International Economics.</p>
+<p><strong>Teaching Assistant:</strong> Microeconomics, Macroeconomics, Game Theory, Macroeconomic Modeling and Advanced Macroeconomics.</p>
+</section>
+<section id="technical-skills" class="level3 skills-copy">
+<h3 data-anchor-id="technical-skills">Technical skills</h3>
+<p><strong>R</strong> · professional &nbsp; <strong>Stata</strong> · advanced &nbsp; <strong>Matlab</strong> · intermediate &nbsp; <strong>Python</strong> · basic</p>
+<p><strong>Languages:</strong> Hungarian (native), English (proficient), German (basic).</p>
+</section>
+</div>
+<div class="research-footer">
+<p>Last updated: August 2026 · <a href="assets/horvathpeter_cv.pdf">Full PDF CV</a></p>
+</div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -399,6 +360,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -713,8 +679,26 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Péter Horváth</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Policy economist · Empirical macroeconomics
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

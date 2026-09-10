@@ -2,40 +2,161 @@
 title: "Péter Horváth"
 ---
 
-
-## Quick bio
-
-
-
-::: columns
-::: {.column width="30%"}
-
-![](./assets/img/logo.jpg){width=90%}
-
-:::
-::: {.column width="70%"}
-I am a PhD Student at the [Institute of Economics, Corvinus University of Budapest](https://www.uni-corvinus.hu/elerhetosegek/horvath-peter/).  My research interests are in empirical macroeconomics and monetary policy. My ongoing research covers topics on 
-
-- the impact of monetary shocks on the housing market, 
-- NLP applications in monetary policy analysis, 
-- traditional macroeconometrics. 
-
-See more on my research [here](./papers.html).
-
-
-::: 
+::: {.hero}
+::: {.hero-copy}
+::: {.eyebrow}
+POLICY ECONOMIST · EMPIRICAL MACROECONOMICS
 :::
 
 
-## Teaching
+I am a Research Economist at the Ministry of Finance of Hungary and a PhD Candidate in Economics at Corvinus University of Budapest. My work combines empirical macroeconomics, monetary policy, forecasting and econometric modelling to study how policy intervention and macro-financial shocks shape the economy.
 
-  - Macroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)
-  - Microeconomics (Business Economics BA and Applied Economics BA)
-  - International Economics (Business Economics BA and Economics and Financial Mathematics MSc)
+::: {.hero-links}
+[Explore research](papers.html){.btn .btn-primary}
+[Download CV](assets/horvathpeter_cv.pdf){.btn .btn-secondary}
+:::
 
-More information on the courses is available at the [website](https://www.uni-corvinus.hu/main-page/programs/subjects-amp-courses/?lang=en) of Corvinus University of Budapest.
+
+:::
+
+::: {.hero-visual}
+::: {.portrait-frame}
+![Péter Horváth](assets/img/logo.jpg){width=100%}
+:::
+
+::: {.portrait-note}
+Budapest · Hungary  
+Macroeconomics · Monetary policy
+:::
+:::
+:::
+
+::: {.signal-row}
+::: {.signal-item}
+**Current role**  
+Research Economist - Ministry of Finance of Hungary
+:::
+::: {.signal-item}
+**Main field**  
+Empirical macroeconomics & monetary policy
+:::
+::: {.signal-item}
+**Research Interests**  
+Distributional Models, Nonlinear Dynamics, Causal Econometrics, Forecasting
+:::
+:::
 
 
-## Contact
+## Selected research
 
-email: horvathpeter970217-at-gmail.com or peter.horvath16-at-stud.uni-corvinus.hu
+::: {.research-grid}
+::: {.research-card .featured}
+::: {.card-kicker}
+DISSERTATION · CHAPTER 1
+:::
+
+### Monetary Transmission in a Fragmented Uncertain World
+
+How does uncertainty change the effectiveness of monetary policy? Evidence from Bayesian threshold VARs across 30 economies.
+
+[Working paper ↗](papers/uncertainty_transmission.pdf){.card-link}
+:::
+
+::: {.research-card}
+::: {.card-kicker}
+PUBLISHED · 2026
+:::
+
+### Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis
+
+Housing-market states alter the behaviour of monetary policy and modestly amplify the contraction in real and financial aggregates.
+
+[Journal article ↗](https://doi.org/10.1111/manc.70034){.card-link}
+:::
+
+::: {.research-card}
+::: {.card-kicker}
+DISSERTATION · CHAPTER 3
+:::
+
+### A Distributional Perspective on Forward Guidance and Monetary Policy along the US Term Structure
+
+Monetary policy and forward guidance shocks move not only the conditional mean of yields, but also their conditional volatility.
+
+[Working paper ↗](papers/forwardguidance_volatility.pdf){.card-link}
+:::
+
+::: {.research-card}
+::: {.card-kicker}
+POLICY RESEARCH · EIB
+:::
+
+### How Does Grant Design Shape Investment, Output, and Productivity in Europe?
+
+Evidence on how the design and allocation of investment grants influence macroeconomic outcomes across EU economies.
+
+[Working paper ↗](papers/macrogrants.pdf){.card-link}
+:::
+:::
+
+::: {.section-more}
+[View all research →](papers.html)
+:::
+
+## Policy and research experience
+
+::: {.experience-grid}
+::: {.experience-item}
+::: {.experience-date}
+2025 — present
+:::
+
+### Ministry of Finance of Hungary
+
+::: {.role}
+Research Economist
+:::
+
+Macroeconomic modelling, forecasting and scenario analysis in the Macro Division.
+:::
+::: {.experience-item}
+::: {.experience-date}
+2025
+:::
+
+### European Investment Bank
+
+::: {.role}
+Research Intern
+:::
+
+Research on how government investment grants influence corporate investment and spill over to growth and productivity.
+:::
+::: {.experience-item}
+::: {.experience-date}
+2023
+:::
+
+### International Monetary Fund
+
+::: {.role}
+Research Intern
+:::
+
+Research in the Strategy, Policy, and Review Department on how economic policy uncertainty influences the monetary transmission mechanism.
+:::
+:::
+
+::: {.closing-panel}
+::: {.closing-copy}
+::: {.eyebrow}
+GET IN TOUCH
+:::
+
+## Questions on monetary policy, forecasting, or applied econometrics are welcome.
+
+I'm glad to hear from researchers, policymakers, or anyone working on related problems.
+:::
+
+[Email me](mailto:horvathpeter970217@gmail.com){.btn .btn-primary}
+:::

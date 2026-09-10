@@ -4,196 +4,160 @@
     "href": "index.html",
     "title": "Péter Horváth",
     "section": "",
-    "text": "I am a PhD Student at the Institute of Economics, Corvinus University of Budapest. My research interests are in empirical macroeconomics and monetary policy. My ongoing research covers topics on\n\nthe impact of monetary shocks on the housing market,\nNLP applications in monetary policy analysis,\ntraditional macroeconometrics.\n\nSee more on my research here.",
-    "crumbs": [
-      "Péter Horváth"
-    ]
+    "text": "POLICY ECONOMIST · EMPIRICAL MACROECONOMICS\n\nI am a Research Economist at the Ministry of Finance of Hungary and a PhD Candidate in Economics at Corvinus University of Budapest. My work combines empirical macroeconomics, monetary policy, forecasting and econometric modelling to study how policy intervention and macro-financial shocks shape the economy.\n\nExplore research Download CV\n\n\n\n\n\n\n\nPéter Horváth\n\n\n\n\nBudapest · Hungary\nMacroeconomics · Monetary policy"
   },
   {
-    "objectID": "index.html#quick-bio",
-    "href": "index.html#quick-bio",
+    "objectID": "index.html#policy-research",
+    "href": "index.html#policy-research",
     "title": "Péter Horváth",
+    "section": "Policy & research",
+    "text": "Policy & research\n\n\nMy main professional focus is applied macroeconomics: building evidence and quantitative tools that can inform policy questions.\nMy academic work complements policy-oriented work, with research on monetary transmission, macro-financial interactions, uncertainty and the distributional effects of policy. In my current role, I work on the macro-modelling and forecasting toolkit of the Macro Division at the Ministry of Finance.\n\n\n\n\n01\n\nMonetary policy\nTransmission, forward guidance and state dependence.\n\n\n\n02\n\nMacroeconomic modelling\nForecasting, scenario analysis and nonlinear dynamics.\n\n\n\n03\n\nApplied econometrics\nBayesian methods, nonlinear models and data-driven research."
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "Péter Horváth",
+    "section": "Selected research",
+    "text": "Selected research\n\n\n\nDISSERTATION · CHAPTER 1\n\n\nMonetary Transmission in a Fragmented Uncertain World\nHow does uncertainty change the effectiveness of monetary policy? Evidence from Bayesian threshold VARs across 30 economies.\nWorking paper ↗\n\n\n\n\nPUBLISHED · 2026\n\n\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\nHousing-market states alter the behaviour of monetary policy and modestly amplify the contraction in real and financial aggregates.\nJournal article ↗\n\n\n\n\nDISSERTATION · CHAPTER 3\n\n\nA Distributional Perspective on Forward Guidance and Monetary Policy along the US Term Structure\nMonetary policy and forward guidance shocks move not only the conditional mean of yields, but also their conditional volatility.\nWorking paper ↗\n\n\n\n\nPOLICY RESEARCH · EIB\n\n\nHow Does Grant Design Shape Investment, Output, and Productivity in Europe?\nEvidence on how the design and allocation of investment grants influence macroeconomic outcomes across EU economies.\nWorking paper ↗\n\n\n\n\nView all research →"
+  },
+  {
+    "objectID": "index.html#policy-experience",
+    "href": "index.html#policy-experience",
+    "title": "Péter Horváth",
+    "section": "Policy experience",
+    "text": "Policy experience\n\n\n\n2025 — present\n\n\nMinistry of Finance of Hungary\n\nResearch Economist\n\nMacroeconomic modelling, forecasting and scenario analysis in the Macro Division.\n\n\n\n\n2025\n\n\nEuropean Investment Bank\n\nResearch Intern\n\nResearch on government investment grants, corporate investment and the broader macroeconomic effects of public financial support.\n\n\n\n\n2023\n\n\nInternational Monetary Fund\n\nSummer Research Intern\n\nResearch in the Strategy, Policy, and Review Department on uncertainty and monetary transmission across 30 economies.\n\n\n\n\n\n\nGET IN TOUCH\n\n\nResearch, policy, or a good economics question.\nI am always happy to discuss research, macroeconomic policy and quantitative methods.\n\n\nContact me"
+  },
+  {
+    "objectID": "index.html#research-policy-or-a-good-economics-question.",
+    "href": "index.html#research-policy-or-a-good-economics-question.",
+    "title": "Péter Horváth",
+    "section": "Research, policy, or a good economics question.",
+    "text": "Research, policy, or a good economics question.\nI am always happy to discuss research, macroeconomic policy and quantitative methods."
+  },
+  {
+    "objectID": "codes.html",
+    "href": "codes.html",
+    "title": "Data & code",
     "section": "",
-    "text": "I am a PhD Student at the Institute of Economics, Corvinus University of Budapest. My research interests are in empirical macroeconomics and monetary policy. My ongoing research covers topics on\n\nthe impact of monetary shocks on the housing market,\nNLP applications in monetary policy analysis,\ntraditional macroeconometrics.\n\nSee more on my research here.",
-    "crumbs": [
-      "Péter Horváth"
-    ]
+    "text": "DATA & CODE\n\n\nThis page is the landing point for replication files, research code and publicly shareable data accompanying my research. Materials will be added here as projects become ready for public release."
   },
   {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Péter Horváth",
-    "section": "Teaching",
-    "text": "Teaching\n\nMacroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)\nMicroeconomics (Business Economics BA and Applied Economics BA)\nInternational Economics (Business Economics BA and Economics and Financial Mathematics MSc)\n\nMore information on the courses is available at the website of Corvinus University of Budapest.",
-    "crumbs": [
-      "Péter Horváth"
-    ]
+    "objectID": "codes.html#replication-packages",
+    "href": "codes.html#replication-packages",
+    "title": "Data & code",
+    "section": "Replication packages",
+    "text": "Replication packages\n\n\n\nREPLICATION\n\n\nProject-specific materials\nEach public replication package will include the code needed to reproduce the main results, a short README, and information on data sources and requirements.\n\nFor future releases\nCode · data instructions · documentation"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Péter Horváth",
-    "section": "Contact",
-    "text": "Contact\nemail: horvathpeter970217-at-gmail.com or peter.horvath16-at-stud.uni-corvinus.hu",
-    "crumbs": [
-      "Péter Horváth"
-    ]
+    "objectID": "codes.html#research-code",
+    "href": "codes.html#research-code",
+    "title": "Data & code",
+    "section": "Research code",
+    "text": "Research code\n\n\n\nGITHUB\n\n\nReusable econometric code\nSelected scripts, functions and research tools will be made available through my GitHub repositories. The repository structure keeps project-specific replication materials separate from reusable code.\nBrowse GitHub repositories ↗"
+  },
+  {
+    "objectID": "codes.html#data",
+    "href": "codes.html#data",
+    "title": "Data & code",
+    "section": "Data",
+    "text": "Data\n\n\n\nPUBLIC DATA\n\n\nData and construction scripts\nWhere data can be redistributed, releases will include the underlying public data or a reproducible script for obtaining and constructing the analysis dataset. Restricted or licensed data will not be redistributed here; documentation will instead explain how eligible researchers can obtain it."
+  },
+  {
+    "objectID": "codes.html#clear-code-documented-data-reproducible-results.",
+    "href": "codes.html#clear-code-documented-data-reproducible-results.",
+    "title": "Data & code",
+    "section": "Clear code, documented data, reproducible results.",
+    "text": "Clear code, documented data, reproducible results.\nFor questions about replication materials or access to data that cannot be redistributed publicly, please get in touch."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Last update: 2026/08/28\nDownload CV\n\n\nApplied econometrics, empirical macroeconomics, machine learning methods, risk modelling. Currently, I am working on modelling conditional distributions as well as nowcasting and scenario analysis models.\n\n\n\n\nResearch Economist – Ministry of Finance (Budapest, Hungary, 2025 September - )\n\nI work on the macro-modelling and forecasting toolkit of the Macro Division.\n\n\n\n\n\n\nResearch Intern – European Investment Bank (Luxembourg, Luxembourg, 2025 March - August)\n\nMy role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department’s economists with various ad hoc tasks.\n\nResearch Intern – International Monetary Fund (Washington D.C., USA, 2023 June - September)\n\nMy project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.\n\nTax Policy Analyst – Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)\n\nI was responsible for monthly reports and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data.\n\n\n\n\n\n\nIMF SPR Summer Intern Research Seminar\n\n2023: Monetary transmission in a fragmented uncertain world - Washington D.C.\n\nHungarian Society of Economist Annual Conference\n\n2022: The Impact of Uncertainty on Monetary Transmission - Pécs\n\n\n\n\n\n\nLecturer\n\nMacroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)\nMicroeconomics (Business Economics BA and Applied Economics BA)\nInternational Economics (Business Economics BA and Economics and Financial Mathematics MSc)\n\nTeaching Assistant\n\nMicroeconomics (Business Economics BA)\nMacroeconomics (Business Economics BA)\nGame Theory (Applied Economics BA)\nMacroeconomic Modeling (Applied Economics BA)\nAdvanced Macroeconomics (Economic Analysis Msc and Economics and Financial Mathematics MSc)\n\n\n\n\n\n\n2021- : PhD in Economics at Corvinus University of Budapest\n\nAdvisor: István Kónya\nThesis: Essays on the nonlinear transmission of monetary policy\nFull dissertation available here.\n\n2025 : Summer School in Econometric Methods for Risk Assessment and Forecasting\n\n2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University\n2019-2020: MSc in Economic Analysis at Corvinus University of Budapest\n2016-2019: BA in Applied Economics at Corvinus University of Budapest\n\n\n\n\n\nInflation Shock and Monetary Policy - joint work with Szilárd Benk and Norbert Szepesi\n\nIn: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.\n\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\n\nFurther information on my ongoing research projects can be found here.\n\n\n\n\n\nLanguage\n\nEnglish: C1 certificate: general (2016)\nGerman: B2 certificate: general (2019)\n\nIT skills:\n\nProficient: R, Microsoft Office\nAdvanced: Stata\nIntermediate: Matlab\n\n\n Download CV\nback",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "text": "CURRICULUM VITAE\n\n\n\n\n\nDownload PDF ↗"
   },
   {
-    "objectID": "cv.html#research-interest",
-    "href": "cv.html#research-interest",
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
     "title": "CV",
-    "section": "",
-    "text": "Applied econometrics, empirical macroeconomics, machine learning methods, risk modelling. Currently, I am working on modelling conditional distributions as well as nowcasting and scenario analysis models.",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "section": "Profile",
+    "text": "Profile\nI am a research economist working at the intersection of applied macroeconomics, empirical research and quantitative policy analysis. My PhD research studies nonlinear monetary-policy transmission using modern time-series and Bayesian econometric methods. My current work focuses on macroeconomic modelling, forecasting and scenario analysis."
   },
   {
-    "objectID": "cv.html#previous-positions-and-research-experiences",
-    "href": "cv.html#previous-positions-and-research-experiences",
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
     "title": "CV",
-    "section": "",
-    "text": "Research Intern – European Investment Bank (Luxembourg, Luxembourg, 2025 March - August)\n\nMy role was to collaborate on a research project investigating the impact of grant policies on investments and the broader economy. Our study is primarily intended for the Annual Investment Report, as well as for peer-reviewed journal publication. Additionally, I assisted the department’s economists with various ad hoc tasks.\n\nResearch Intern – International Monetary Fund (Washington D.C., USA, 2023 June - September)\n\nMy project was titled “Monetary transmission in a fragmented uncertain world” in the Strategy, Policy, and Review department’s Macro Policy division. This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.\n\nTax Policy Analyst – Ministry of Finance (Budapest, Hungary, 2020 May - 2022 August)\n\nI was responsible for monthly reports and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data.",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "section": "Experience",
+    "text": "Experience\n\n\nSep. 2025 — present\n\n\nResearch Economist · Ministry of Finance of Hungary\nWork on the macro-modelling and forecasting toolkit of the Macro Division, including quantitative analysis for policy and scenario work.\n\n\n\n\nMar. — Aug. 2025\n\n\nResearch Intern · European Investment Bank\nCollaborated on research on government investment grants, investment and broader macroeconomic aggregates, with the project intended for the Annual Investment Report and peer-reviewed publication.\n\n\n\n\nJun. — Sep. 2023\n\n\nResearch Intern · International Monetary Fund\nWorked in the Strategy, Policy, and Review Department on how monetary transmission changes under high uncertainty using Bayesian threshold VARs across 30 economies.\n\n\n\n\nMay 2020 — Aug. 2022\n\n\nTax Policy Analyst · Ministry of Finance of Hungary\nForecasting tax revenues, managing tax-return data, conducting microsimulation-based policy analysis and preparing staff notes."
   },
   {
-    "objectID": "cv.html#conferences-and-presentations",
-    "href": "cv.html#conferences-and-presentations",
+    "objectID": "cv.html#research-publications",
+    "href": "cv.html#research-publications",
     "title": "CV",
-    "section": "",
-    "text": "IMF SPR Summer Intern Research Seminar\n\n2023: Monetary transmission in a fragmented uncertain world - Washington D.C.\n\nHungarian Society of Economist Annual Conference\n\n2022: The Impact of Uncertainty on Monetary Transmission - Pécs",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
-  },
-  {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
-    "title": "CV",
-    "section": "",
-    "text": "Lecturer\n\nMacroeconomics (Business Economics BA, Applied Economics BA and Actuarial and Financial Mathematics MSc)\nMicroeconomics (Business Economics BA and Applied Economics BA)\nInternational Economics (Business Economics BA and Economics and Financial Mathematics MSc)\n\nTeaching Assistant\n\nMicroeconomics (Business Economics BA)\nMacroeconomics (Business Economics BA)\nGame Theory (Applied Economics BA)\nMacroeconomic Modeling (Applied Economics BA)\nAdvanced Macroeconomics (Economic Analysis Msc and Economics and Financial Mathematics MSc)",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "section": "Research & publications",
+    "text": "Research & publications\n\n\n2026 · Published\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\nDissertation chapter.\n\n\n2024 · Published\nInflation Shock and Monetary Policy\nWith Szilárd Benk and Norbert Szepesi.\n\n\nWorking paper\nMonetary Transmission in a Fragmented Uncertain World\nDissertation chapter, coauthored with Tohid Atashbar.\n\n\nWorking paper\nA Distributional Perspective on Forward Guidance and the US Term Structure\nDissertation chapter.\n\n\nWorking paper\nHow Does Grant Design Shape Investment, Output, and Productivity in Europe?\nCoauthored with Atanas Kolev and Laurent Maurin."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
-    "section": "",
-    "text": "2021- : PhD in Economics at Corvinus University of Budapest\n\nAdvisor: István Kónya\nThesis: Essays on the nonlinear transmission of monetary policy\nFull dissertation available here.\n\n2025 : Summer School in Econometric Methods for Risk Assessment and Forecasting\n\n2022-2024: MSc in Quantitative Economics at Eötvös Lóránd University\n2019-2020: MSc in Economic Analysis at Corvinus University of Budapest\n2016-2019: BA in Applied Economics at Corvinus University of Budapest",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "section": "Education",
+    "text": "Education\n\n\n2021 — present\n\n\nPhD in Economics · Corvinus University of Budapest\nField: Empirical Macroeconomics and Monetary Policy · Supervisor: István Kónya · Thesis: Essays on the nonlinear transmission of monetary policy.\n\n\n\n\n2022 — 2024\n\n\nMSc in Quantitative Economics · Eötvös Loránd University\n\n\n\n\n2019 — 2021\n\n\nMSc in Economic Analysis · Corvinus University of Budapest\n\n\n\n\n2016 — 2019\n\n\nBA in Applied Economics · Corvinus University of Budapest"
   },
   {
-    "objectID": "cv.html#work-experience",
-    "href": "cv.html#work-experience",
+    "objectID": "cv.html#teaching-skills",
+    "href": "cv.html#teaching-skills",
     "title": "CV",
-    "section": "",
-    "text": "Hungarian Ministry of Finance (2020 May - 2022 August)\n\nI was responsible for monthly reports and forecasts of tax revenues (personal income tax, social security contributions, lump-sum tax of small entrepreneurs), as well as creating policy scenarios using micro-simulation techniques on tax return data."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "CV",
-    "section": "",
-    "text": "Language\n\nEnglish: C1 certificate: general (2016)\nGerman: B2 certificate: general (2019)\n\nIT skills:\n\nProficient: R, Microsoft Office\nAdvanced: Stata\nIntermediate: Matlab\n\n\n Download CV\nback",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "section": "Teaching & skills",
+    "text": "Teaching & skills\n\n\nTeaching\nLecturer: Macroeconomics, Microeconomics, International Economics.\nTeaching Assistant: Microeconomics, Macroeconomics, Game Theory, Macroeconomic Modeling and Advanced Macroeconomics.\n\n\nTechnical skills\nR · professional   Stata · advanced   Matlab · intermediate   Python · basic\nLanguages: Hungarian (native), English (proficient), German (basic).\n\n\n\nLast updated: August 2026 · Full PDF CV"
   },
   {
     "objectID": "papers.html",
     "href": "papers.html",
-    "title": "Papers",
+    "title": "Research",
     "section": "",
-    "text": "Last update: 2026/08/28",
-    "crumbs": [
-      "Research",
-      "Papers"
-    ]
+    "text": "RESEARCH"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "papers.html#dissertation",
+    "href": "papers.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\n\n\n\nPHD DISSERTATION · CORVINUS UNIVERSITY OF BUDAPEST\n\n\nEssays on the Nonlinear Transmission of Monetary Policy\nMy dissertation studies how the transmission of monetary policy varies across economic states, uncertainty regimes and dimensions of the yield curve.\n\n\nFull dissertation ↗\n\n\nChapter 1 — Monetary Transmission in a Fragmented Uncertain World\n\n\n\nCONFERENCE-READY · WITH TOHID ATASHBAR\n\n\nMonetary Transmission in a Fragmented Uncertain World\nHow economic uncertainty affects monetary policy transmission. Using Bayesian threshold VARs across 30 economies, the paper finds that inflation responds markedly less to monetary shocks in high-uncertainty states while the GDP response remains comparatively stable.\n\n\nPDF ↗\n\n\n\nChapter 2 — Housing-market imbalances and monetary transmission\n\n\n\nPUBLISHED · 2026\n\n\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\nHousing-market conditions affect both monetary-policy behaviour and the transmission of monetary shocks. Evidence from the United States points to more gradual policy easing around housing booms and somewhat stronger contractions in activity and financial aggregates.\n\n\nJournal ↗\n\n\n\nChapter 3 — Forward guidance and the yield curve\n\n\n\nCONFERENCE-READY\n\n\nA Distributional Perspective on Forward Guidance and the US Term Structure\nMonetary policy announcements affect conditional volatility as well as the conditional mean of the US yield curve. Standard policy-rate shocks tend to increase volatility, while forward guidance compresses it, however, the volatility effects are smaller and less persistent than the mean effects.\n\n\nPDF ↗"
+  },
+  {
+    "objectID": "papers.html#other-research",
+    "href": "papers.html#other-research",
+    "title": "Research",
+    "section": "Other research",
+    "text": "Other research\n\n\n\nCONFERENCE-READY · WITH ATANAS KOLEV & LAURENT MAURIN\n\n\nHow Does Grant Design Shape Investment, Output, and Productivity in Europe?\nBayesian VAR evidence from EU economies on how the design and allocation of government investment grants shape investment, output and productivity. The project was developed during the EIB Traineeship Program.\n\n\nPDF ↗\n\n\n\n\nPUBLISHED · 2024 · WITH SZILÁRD BENK & NORBERT SZEPESI\n\n\nInflation Shock and Monetary Policy\nChapter in Central and Eastern European Economies and the War in Ukraine, examining the inflation surge and monetary-policy responses across Central and Eastern Europe.\n\n\nPublication ↗\n\n\nLast updated: August 2026."
+  },
+  {
+    "objectID": "index.html#economics-for-policy-evidence-for-decisions.",
+    "href": "index.html#economics-for-policy-evidence-for-decisions.",
+    "title": "Péter Horváth",
     "section": "",
-    "text": "back"
+    "text": "I am a Research Economist at the Ministry of Finance of Hungary and a PhD Candidate in Economics at Corvinus University of Budapest. My work combines empirical macroeconomics, monetary policy, forecasting and econometric modelling to study how policy intervention and macro-financial shocks shape the economy.\n\nExplore research Download CV"
   },
   {
-    "objectID": "papers.html#ongoing-research-projects",
-    "href": "papers.html#ongoing-research-projects",
-    "title": "Papers",
-    "section": "Ongoing research projects",
-    "text": "Ongoing research projects\n\nHow does grant design shape investment, output, and productivity in Europe?\n\nJoint work with Atanas Kolev (EIB) and Laurent Maurin (EIB) during the EIB Traineeship Program.\nAbstract: This paper investigates the impact of government investment grants on investments, output and productivity across EU economies. We estimate Bayesian Vector Autoregressions for a wide range of EU countries using priors derived at the EU level. We then use a mix of impact restrictions as well as short-run and long-run sign restrictions to identify two types of grant allotments: demand-support and productivity-enhancing. We find that, compared to demand-support grants, productivity-enhancing grants translate into much larger gains in investment and output as well. We also find that the permanent increase in productivity is due to the fact that such grants are allocated to more productive investments, such as intellectual property products. In contrast, demand-support grants are more likely to be allocated to replenishing physical capital, as shown by the response of investment in machinery and equipment. The magnitude of the responses appears to vary substantially across European economies in our sample. We use the EIB Investment Survey to better understand these differences. We match the estimated responses with survey information to characterize the investment environment in each country. We find characteristics, such as the prevailing uncertainty, the cost of bureaucracy, or the degree of fragmentation, do explain part of the differences in the macroeconomic response. Overall, our analysis emphasizes that the nature of grants and the rationale behind their allotment influence the macroeconomic benefits. Moreover, providing a business environment more suitable to investment also raises the impact of the public financial support to corporate investment.\nStage: Conference-ready (Please click the link above to read the latest version of the working paper.)\n\n\nPlease feel free to reach out for replication files, or check my GitHub repos here.\nback",
-    "crumbs": [
-      "Research",
-      "Papers"
-    ]
-  },
-  {
-    "objectID": "cv.html#current-position",
-    "href": "cv.html#current-position",
-    "title": "CV",
+    "objectID": "index.html#macro-research-for-policy-work.",
+    "href": "index.html#macro-research-for-policy-work.",
+    "title": "Péter Horváth",
     "section": "",
-    "text": "Research Economist – Ministry of Finance (Budapest, Hungary, 2025 September - )\n\nI work on the macro-modelling and forecasting toolkit of the Macro Division.",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "text": "I am a Research Economist at the Ministry of Finance of Hungary and a PhD Candidate in Economics at Corvinus University of Budapest. My work combines empirical macroeconomics, monetary policy, forecasting and econometric modelling to study how policy intervention and macro-financial shocks shape the economy.\n\nExplore research Download CV"
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "",
-    "text": "Inflation Shock and Monetary Policy - joint work with Szilárd Benk and Norbert Szepesi\n\nIn: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine.\n\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\n\nFurther information on my ongoing research projects can be found here.",
-    "crumbs": [
-      "About me",
-      "CV"
-    ]
+    "objectID": "index.html#policy-and-research-experience",
+    "href": "index.html#policy-and-research-experience",
+    "title": "Péter Horváth",
+    "section": "Policy and research experience",
+    "text": "Policy and research experience\n\n\n\n2025 — present\n\n\nMinistry of Finance of Hungary\n\nResearch Economist\n\nMacroeconomic modelling, forecasting and scenario analysis in the Macro Division.\n\n\n\n\n2025\n\n\nEuropean Investment Bank\n\nResearch Intern\n\nResearch on how government investment grants influence corporate investment and spill over to growth and productivity.\n\n\n\n\n2023\n\n\nInternational Monetary Fund\n\nResearch Intern\n\nResearch in the Strategy, Policy, and Review Department on how economic policy uncertainty influences the monetary transmission mechanism.\n\n\n\n\n\n\nGET IN TOUCH\n\n\nQuestions on monetary policy, forecasting, or applied econometrics are welcome.\nI’m glad to hear from researchers, policymakers, or anyone working on related problems.\n\n\nEmail me"
   },
   {
-    "objectID": "papers.html#published-papers",
-    "href": "papers.html#published-papers",
-    "title": "Papers",
-    "section": "Published papers",
-    "text": "Published papers\n\nInflation Shock and Monetary Policy In: Mátyás, L. (eds) Central and Eastern European Economies and the War in Ukraine. Contributions to Economics. Springer, Cham. https://doi.org/10.1007/978-3-031-61561-0_4\n\nJoint work with Szilárd Benk and Norbert Szepesi\nAbstract: The war in Ukraine triggered the most substantial surge in inflation rates in decades, posing a formidable challenge for the central banks of Central and Eastern Europe (CEE) to curb inflation without compromising the ongoing post-Covid recovery. This chapter provides a brief discussion of the factors contributing to the inflationary pressure and evaluates the monetary policy responses in the region. The root cause of the inflationary pressure lies primarily in supply-side shocks disrupting international trade channels as a consequence of the war. Countries with loose monetary conditions witnessed the most pronounced spike in inflation rates in the aftermath of the war. Despite these challenges, central banks responded promptly, implementing aggressive interest rate hikes, keeping monetary conditions tight throughout 2022 and well after inflation rates began to decrease in 2023.\n\nNonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence From a Factor-Augmented Threshold VAR Analysis\n\nAbstract: In recent decades, persistently low rates have driven housing booms and prompted questions on how market imbalances interact with monetary policy. In this paper, I investigate how such imbalances affect the monetary transmission in the United States. I create a boom-bust cycle indicator from the rent‑price ratio and credit‑to‑GDP gap, then embed it in a factor‑augmented threshold VAR with two regimes to isolate the two parts of the cycle. Impulse responses show that monetary policy itself behaves differently conditional on the state of the housing market. Interest rates are eased much more gradually around booms, which suggests that broader macro-financial signals are incorporated into the policy framework in order to effectively manage deleveraging in the market. The transmission channel appears to be less affected, as real and financial aggregates show only somewhat larger contractions in response to a monetary policy shock in a booming market.",
-    "crumbs": [
-      "Research",
-      "Papers"
-    ]
-  },
-  {
-    "objectID": "papers.html#dissertation-chapters",
-    "href": "papers.html#dissertation-chapters",
-    "title": "Papers",
-    "section": "Dissertation chapters",
-    "text": "Dissertation chapters\n\nChapter 1: Monetary Transmission in a fragmented uncertain world\n\nJoint work with Tohid Atashbar (IMF) during the Fund Internship Program.\nAbstract: This paper investigates how economic uncertainty affects monetary policy transmission using Bayesian Threshold VARs across 30 economies. We find that during high uncertainty, the inflation response to monetary policy shocks is markedly weaker, while the GDP response remains stable. Consequently, state-dependent sacrifice ratios show disinflation is significantly more costly when uncertainty is elevated. The asymmetry we find is primarily driven by policy uncertainty and suggests that this uncertainty disrupts transmission by weakening the pass-through from economic slack to inflation.\nStage: Conference-ready (Please click the link above to read the latest version of the working paper.)\n\n\n\nChapter 2: Nonlinear Transmission of Monetary Policy and Housing Market Imbalances: Evidence from a Factor-Augmented Threshold VAR Analysis?\n\nStage: Published, please see above.\n\n\n\nChapter 3: A Distributional Perspective on Forward Guidance and the US Term Structure\n\nAbstract: This paper investigates the impact of monetary policy and forward guidance on the U.S. term structure of interest rates with a focus on how it affects conditional volatility dynamics. Employing a dynamic location-scale model and several high-frequency surprises, I find that monetary policy announcements have a significant effect on the conditional volatility of the yield curve. While standard policy rate shocks generally increase volatility, forward guidance tends to compress it. However, these effects on conditional volatility are far smaller and less persistent than the conditional mean effects. The volatility channel is primarily driven by information signals and is asymmetric with respect to the sign of the shock. The results are robust to alternative specifications.\nStage: Conference-ready (Please click the link above to read the latest version of the working paper.)",
-    "crumbs": [
-      "Research",
-      "Papers"
-    ]
+    "objectID": "index.html#questions-on-monetary-policy-forecasting-or-applied-econometrics-are-welcome.",
+    "href": "index.html#questions-on-monetary-policy-forecasting-or-applied-econometrics-are-welcome.",
+    "title": "Péter Horváth",
+    "section": "Questions on monetary policy, forecasting, or applied econometrics are welcome.",
+    "text": "Questions on monetary policy, forecasting, or applied econometrics are welcome.\nI’m glad to hear from researchers, policymakers, or anyone working on related problems."
   }
 ]
